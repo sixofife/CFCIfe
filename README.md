@@ -66,18 +66,13 @@ I am a Backend Developer and self-taught DevOps Engineer with experience as a Te
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 June 2025 - To: 08 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
-Total Time: 2 hrs 38 mins
+Total Time: 5 hrs 15 mins
 
-Python                     1 hr 39 mins    >>>>>>>>>>>>>>>>---------   62.69 %
-YAML                       41 mins         >>>>>>>------------------   26.31 %
-Nginx configuration file   12 mins         >>-----------------------   07.59 %
-Git Config                 1 min           -------------------------   00.93 %
-Docker                     1 min           -------------------------   00.76 %
-JavaScript                 0 secs          -------------------------   00.62 %
-PHP                        0 secs          -------------------------   00.47 %
-Other                      0 secs          -------------------------   00.41 %
+Python   5 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.59 %
+YAML     7 mins          >------------------------   02.37 %
+Other    2 mins          -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->

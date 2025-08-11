@@ -66,11 +66,13 @@ I am a Backend Developer and self-taught DevOps Engineer with experience as a Te
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 July 2025 - To: 03 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 9 mins
 
-No activity tracked
+CSS    2 hrs           >>>>>>>>>>>>>>>>---------   63.44 %
+HTML   1 hr 5 mins     >>>>>>>>>----------------   34.75 %
+YAML   3 mins          -------------------------   01.81 %
 ```
 
 <!--END_SECTION:waka-->
